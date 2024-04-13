@@ -1,6 +1,8 @@
 # UmsPay WooCommerce Plugin
 
-![UmsPay Logo](umspay.png)
+<p align="center">
+  <img src="umspay.png" alt="UmsPay Logo" width="200"/>
+</p>
 
 UmsPay for WooCommerce is a payment gateway plugin that enables you to accept payments via Mpesa Stk Push directly on Mpesa Till, Paybill, and Bank Account through your WooCommerce store.
 
@@ -14,7 +16,7 @@ UmsPay for WooCommerce is a payment gateway plugin that enables you to accept pa
 
 To install the UmsPay WooCommerce Plugin, follow these steps:
 
-1. Download the plugin zip file from the [releases page](https://github.com/your-username/ums-pay-woocommerce-plugin/releases).
+1. Download the plugin zip file from the [releases page](https://github.com/UMESKIA-SOFTWARES/UmsPay-WooCommwece-Plugin/releases).
 2. In your WordPress admin dashboard, navigate to Plugins -> Add New.
 3. Click on the "Upload Plugin" button, then select the downloaded zip file and click "Install Now".
 4. After installation, click on the "Activate" button to activate the plugin.
@@ -51,4 +53,3 @@ Special thanks to [Alvin Kiveu](https://github.com/alvin-kiveu/) and UMESKIA SOF
 ## About
 
 This plugin is maintained by [UMESKIA SOFTWARES](https://github.com/UMESKIA-SOFTWARES/).
-
